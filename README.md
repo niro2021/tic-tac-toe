@@ -14,6 +14,8 @@ A standard game of Tic-Tac-Toe in Leo.
 
 ❌ ❕ ❌ ❕ ⭕
 
+## Contributer Discord id: niro5707
+
 ## Representing State
 Leo allows users to define composite data types with the `struct` keyword. 
 The game board is represented by a struct called `Board`, which contains three `Row`s.
