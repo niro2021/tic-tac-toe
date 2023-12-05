@@ -14,7 +14,7 @@ A standard game of Tic-Tac-Toe in Leo.
 
 ❌ ❕ ❌ ❕ ⭕
 
-## Contributer Discord id: niro5707
+## Contributer's Discord id: niro5707
 
 ## Representing State
 Leo allows users to define composite data types with the `struct` keyword. 
